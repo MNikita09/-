@@ -1,0 +1,22 @@
+.height-1000{
+	height:1050px;
+}
+.bg-phone{
+	background-image: url(1.avif);
+	background-size:cover;
+}
+.ff-cursive{
+	font-family: cursive;
+}
+.ms-105{
+	margin-left:105px;
+}
+.mt-50{
+	margin-top:60px;
+}
+.mt-25{
+	margin-top: 30px;
+}
+.fs-23{
+	font-size:23px;
+}
